@@ -1,0 +1,19 @@
+.durationBar {
+    @apply bg-ui2 relative h-2 w-full my-2;
+}
+
+.progressBar {
+    @apply bg-text absolute left-0 top-0 h-full transition-all duration-1000;
+}
+
+.progressBarWrapper {
+    @apply w-3/4 mx-5;
+}
+
+.author {
+    @apply text-xs text-ui2;
+}
+
+.trackTitle {
+    @apply text-xs;
+}

@@ -1,0 +1,11 @@
+.root {
+    @apply p-4 flex items-center;
+}
+
+.iconButton {
+    @apply h-10 w-10 text-text cursor-pointer;
+}
+
+.duration {
+    @apply text-ui2 text-xs;
+}
